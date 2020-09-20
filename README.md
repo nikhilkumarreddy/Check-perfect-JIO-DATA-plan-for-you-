@@ -8,7 +8,7 @@
   - Go to https://www.jio.com/dashboard/?root=login
   - login with your jio number 
   - go to MY STATMENTS 
-  - download your data in .pdf format (you can only download only past 6 months data )
+  - download your data in .pdf format (you can download only past 6 months data )
   - save those pdfs
 
 how to run :- 
